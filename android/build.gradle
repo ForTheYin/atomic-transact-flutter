@@ -26,7 +26,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "financial.atomic.transact"
+    namespace "atomic.financial.atomic_transact_flutter"
     compileSdkVersion 29
 
     compileOptions {
